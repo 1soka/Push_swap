@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by mboulefr, PARTNER_LOGIN.*
+*This project has been created as part of the 42 curriculum by 1soka, PARTNER_LOGIN.*
 
 <p align="center"><img src="assets/banner.gif" width="100%" alt="push_swap banner"></p>
 
@@ -154,7 +154,7 @@ This project was done as a group of two learners.
 
 | Learner | Contribution |
 |---|---|
-| mboulefr | TODO: parsing, operations, adaptive strategy, README |
+| 1soka (Me) | TODO: parsing, operations, adaptive strategy, README |
 | PARTNER_LOGIN | TODO: strategies, disorder metric, checker bonus, benchmark |
 
 ---
