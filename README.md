@@ -1,6 +1,6 @@
 *This project has been created as part of the 42 curriculum by 1soka, PARTNER_LOGIN.*
 
-<p align="center"><img src="assets/banner.gif" width="100%" alt="push_swap banner"></p>
+<p align="center"><img src="assets/grades/banner.gif" width="100%" alt="push_swap banner"></p>
 
 <div align="center">
 
